@@ -9,7 +9,7 @@ Open Chrome and go to chrome://extensions.
 Turn on Developer mode.
 Click "Load unpacked" and select the src directory of the cloned repository.
 
-### Features
+## Features
 The Password Manager Chrome Extension includes the following features:
 
 Secure storage and encryption of login credentials using industry-standard security measures such as hashing and 256-bit AES encryption.
@@ -19,7 +19,7 @@ Master password feature for securing access to stored credentials.
 Backup and restore feature for backing up and restoring stored credentials.
 Autofill feature for automatically filling login credentials on websites.
 
-#### Contributing
+## Contributing
 Contributions to the Password Manager Chrome Extension are welcome. To contribute, follow these steps:
 
 Fork the repository.
