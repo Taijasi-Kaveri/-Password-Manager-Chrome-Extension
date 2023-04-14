@@ -1,6 +1,5 @@
-# -Password-Manager-Chrome-Extension
-The Password Manager Chrome Extension is a simple and secure way to store and autofill login credentials on websites. The extension includes features such as a password generator, master password, backup and restore, and a user-friendly UI. It also uses industry-standard security measures such as hashing and encryption to protect users' login credentials.
-
+# -Daily Motivation-Chrome-Extension
+Everybody needs motivation before starting their day.
 ## Building from Source
 To build the Password Manager Chrome Extension from the source code, follow these steps:
 
