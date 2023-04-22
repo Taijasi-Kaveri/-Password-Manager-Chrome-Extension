@@ -1,5 +1,5 @@
-# -Daily Motivation-Chrome-Extension
-Everybody needs motivation before starting their day.
+# -Language Learning Tool
+An extension that helps users learn a new language by translating and highlighting words on webpages, and providing flashcards and quizzes.
 ## Building from Source
 To build the Password Manager Chrome Extension from the source code, follow these steps:
 
