@@ -1,31 +1,36 @@
 # -  StockLearn - A Stock Market Data Chrome Extension
-An extension that helps users learn a new language by translating and highlighting words on webpages, and providing flashcards and quizzes.
-## Building from Source
-To build the Password Manager Chrome Extension from the source code, follow these steps:
+## Description
+This is a Chrome extension that integrates with the Alpha Vantage API to display stock market data. Users can search for stock symbols and view real-time stock prices, as well as historical data and graphs.
 
-* Clone the repository to your local machine.
-* Open Chrome and go to chrome://extensions.
-* Turn on Developer mode.
-* Click "Load unpacked" and select the src directory of the cloned repository.
+## Installation
+To install this Chrome extension, follow these steps:
 
-## Features
-The Password Manager Chrome Extension includes the following features:
+Clone the repository to your local machine.
+Open Google Chrome and navigate to the extensions settings (chrome://extensions).
+Enable "Developer mode" by clicking the toggle switch in the top right corner.
+Click "Load unpacked" and select the root directory of the cloned repository.
+The extension should now be installed and visible in your browser toolbar.
 
-* Secure storage and encryption of login credentials using industry-standard security measures such as hashing and 256-bit AES encryption.
-* User-friendly UI with easy navigation and management of login credentials.
-* Password generator for generating strong and secure passwords.
-* Master password feature for securing access to stored credentials.
-* Backup and restore feature for backing up and restoring stored credentials.
-* Autofill feature for automatically filling login credentials on websites.
+## Usage
+To use the extension, simply click the extension icon in your browser toolbar. This will open a popup window where you can search for stock symbols and view stock data. You can also access the options page to customize the extension settings.
 
-## Contributing
-Contributions to the Password Manager Chrome Extension are welcome. To contribute, follow these steps:
+## Class Diagram
+Here is a class diagram for the Alpha Vantage API Chrome Extension:
 
-* Fork the repository.
-* Create a new branch for your changes.
-* Make your changes and commit them.
-* Push your changes to your fork.
-* Create a pull request.
+
+
+## Flowchart
+Here is a flowchart for the Alpha Vantage API Chrome Extension:
+
+
+
+## Technologies Used
+HTML
+CSS
+JavaScript
+Alpha Vantage API
+Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request. You can also submit bug reports or feature requests by creating a new issue.
 
 ## License
-The Password Manager Chrome Extension is licensed under the MIT license
+This project is licensed under the MIT License.
