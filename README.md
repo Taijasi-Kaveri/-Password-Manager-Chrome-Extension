@@ -5,16 +5,16 @@ This is a Chrome extension that integrates with the Alpha Vantage API to display
 ## Installation
 To install this Chrome extension, follow these steps:
 
-i. Clone the repository to your local machine.
-ii. Open Google Chrome and navigate to the extensions settings (chrome://extensions).
-iii. Enable "Developer mode" by clicking the toggle switch in the top right corner.
-iv. Click "Load unpacked" and select the root directory of the cloned repository.
-v. The extension should now be installed and visible in your browser toolbar.
+1. Clone the repository to your local machine.
+2. Open Google Chrome and navigate to the extensions settings (chrome://extensions).
+3. Enable "Developer mode" by clicking the toggle switch in the top right corner.
+4. Click "Load unpacked" and select the root directory of the cloned repository.
+5. The extension should now be installed and visible in your browser toolbar.
 
 ## Usage
-i. To use the extension, simply click the extension icon in your browser toolbar. 
-ii. This will open a popup window where you can search for stock symbols and view stock data. 
-iii. You can also access the options page to customize the extension settings.
+1. To use the extension, simply click the extension icon in your browser toolbar. 
+2. This will open a popup window where you can search for stock symbols and view stock data. 
+3. You can also access the options page to customize the extension settings.
 
 ## Class Diagram
 Here is a class diagram for the Alpha Vantage API Chrome Extension:
@@ -27,10 +27,10 @@ Here is a flowchart for the Alpha Vantage API Chrome Extension:
 
 
 ## Technologies Used
-i. HTML
-ii. CSS
-iii. JavaScript
-iv. Alpha Vantage API
+1. HTML
+2. CSS
+3. JavaScript
+4. Alpha Vantage API
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. You can also submit bug reports or feature requests by creating a new issue.
