@@ -23,6 +23,7 @@ Here is a class diagram for the Alpha Vantage API Chrome Extension:
 
 ## Flowchart
 Here is a flowchart for the Alpha Vantage API Chrome Extension:
+![image](https://github.com/Taijasi-Kaveri/StockLearn/assets/52359546/829e77a6-e233-4704-98d9-4677acd09af2)
 
 
 
