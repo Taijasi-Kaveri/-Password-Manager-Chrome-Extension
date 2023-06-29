@@ -1,6 +1,11 @@
-# -  StockLearn - A Stock Market Data Chrome Extension
+# -  URL Shortener Chrome Extension
 ## Description
 This is a Chrome extension that integrates with the Alpha Vantage API to display stock market data. Users can search for stock symbols and view real-time stock prices, as well as historical data and graphs.
+
+## Features
+* One-Click URL Shortening: Simply click the extension icon in your Chrome browser, and the extension will automatically shorten the current tab's URL.
+* Copy to Clipboard: Once a URL is shortened, the extension copies the shortened link to your clipboard, making it easy to paste and share wherever you need.
+* Customization Options: Customize the extension to suit your preferences. You can choose from various URL shortening services, set your preferred domain, or enable/disable additional features.
 
 ## Installation
 To install this Chrome extension, follow these steps:
@@ -16,14 +21,8 @@ To install this Chrome extension, follow these steps:
 2. This will open a popup window where you can search for stock symbols and view stock data. 
 3. You can also access the options page to customize the extension settings.
 
-## Class Diagram
-Here is a class diagram for the Alpha Vantage API Chrome Extension:
-
-
-
 ## Flowchart
-Here is a flowchart for the Alpha Vantage API Chrome Extension:
-![image](https://github.com/Taijasi-Kaveri/StockLearn/assets/52359546/829e77a6-e233-4704-98d9-4677acd09af2)
+Here is a flowchart for the URL Shortener Chrome Extension:
 
 
 
@@ -31,7 +30,7 @@ Here is a flowchart for the Alpha Vantage API Chrome Extension:
 1. HTML
 2. CSS
 3. JavaScript
-4. Alpha Vantage API
+4. T.LY API
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. You can also submit bug reports or feature requests by creating a new issue.
