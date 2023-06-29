@@ -1,12 +1,14 @@
 # -  URL Shortener Chrome Extension
 ## Description
-This is a Chrome extension that integrates with the Alpha Vantage API to display stock market data. Users can search for stock symbols and view real-time stock prices, as well as historical data and graphs.
+The URL Shortener Chrome Extension is a simple yet powerful tool that allows users to easily shorten long URLs with just a click. With this extension, one can quickly generate short and shareable links to streamline online communication.
 
 ## Features
 * One-Click URL Shortening: Simply click the extension icon in your Chrome browser, and the extension will automatically shorten the current tab's URL.
 * Copy to Clipboard: Once a URL is shortened, the extension copies the shortened link to your clipboard, making it easy to paste and share wherever you need.
 * Customization Options: Customize the extension to suit your preferences. You can choose from various URL shortening services, set your preferred domain, or enable/disable additional features.
 
+## Demo
+Here's a demonstration for the URL Shortener chrome extension:
 ## Installation
 To install this Chrome extension, follow these steps:
 
@@ -20,11 +22,6 @@ To install this Chrome extension, follow these steps:
 1. To use the extension, simply click the extension icon in your browser toolbar. 
 2. This will open a popup window where you can search for stock symbols and view stock data. 
 3. You can also access the options page to customize the extension settings.
-
-## Flowchart
-Here is a flowchart for the URL Shortener Chrome Extension:
-
-
 
 ## Technologies Used
 1. HTML
