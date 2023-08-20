@@ -1,4 +1,4 @@
-# -  URL Shortener Chrome Extension
+# -  Custom Made API
 ## Description
 The URL Shortener Chrome Extension is a simple yet powerful tool that allows users to easily shorten long URLs with just a click. With this extension, one can quickly generate short and shareable links to streamline online communication.
 
