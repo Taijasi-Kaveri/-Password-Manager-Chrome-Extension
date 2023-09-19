@@ -1,6 +1,6 @@
-# -  Custom Made API
+# -  Climate Change News API
 ## Description
-The URL Shortener Chrome Extension is a simple yet powerful tool that allows users to easily shorten long URLs with just a click. With this extension, one can quickly generate short and shareable links to streamline online communication.
+The Climate Change News API is an application developed using Node.js, Cheerio, Axios, and Express.js. It's designed to fetch and provide news articles related to climate change from various sources. This project is currently under development, and features are actively being added to make it a robust and reliable tool for accessing up-to-date climate change news.
 
 ## Features
 * One-Click URL Shortening: Simply click the extension icon in your Chrome browser, and the extension will automatically shorten the current tab's URL.
