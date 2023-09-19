@@ -2,32 +2,44 @@
 ## Description
 The Climate Change News API is an application developed using Node.js, Cheerio, Axios, and Express.js. It's designed to fetch and provide news articles related to climate change from various sources. This project is currently under development, and features are actively being added to make it a robust and reliable tool for accessing up-to-date climate change news.
 
-## Features
-* One-Click URL Shortening: Simply click the extension icon in your Chrome browser, and the extension will automatically shorten the current tab's URL.
-* Copy to Clipboard: Once a URL is shortened, the extension copies the shortened link to your clipboard, making it easy to paste and share wherever you need.
-* Customization Options: Customize the extension to suit your preferences. You can choose from various URL shortening services, set your preferred domain, or enable/disable additional features.
+### To-Do List
 
-## Demo
-Here's a demonstration for the URL Shortener chrome extension:
+1. Implement endpoint for fetching news articles.
+2. Enhance error handling and logging.
+3. Write comprehensive documentation.
+4. Add unit tests.
+ 
+### Getting Started
+
+#### Prerequisites
+Before you can use or contribute to this project, make sure you have the following prerequisites installed:
+
+1. **Node.js** - JavaScript runtime environment
+2. **npm** - Node.js package manager
+   
 ## Installation
-To install this Chrome extension, follow these steps:
 
-1. Clone the repository to your local machine.
-2. Open Google Chrome and navigate to the extensions settings (chrome://extensions).
-3. Enable "Developer mode" by clicking the toggle switch in the top right corner.
-4. Click "Load unpacked" and select the root directory of the cloned repository.
-5. The extension should now be installed and visible in your browser toolbar.
+1. Clone the repository:
+```
+git clone https://github.com/yourusername/climate-change-news-api.git
+```
+
+2. Navigate to the project directory:
+```
+cd climate-change-news-api
+```
+
+3. Install dependencies:
+```
+npm install
+```
 
 ## Usage
-1. To use the extension, simply click the extension icon in your browser toolbar. 
-2. This will open a popup window where you can search for stock symbols and view stock data. 
-3. You can also access the options page to customize the extension settings.
 
-## Technologies Used
-1. HTML
-2. CSS
-3. JavaScript
-4. T.LY API
+To start the API server, use the following command:
+```
+npm start
+```
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. You can also submit bug reports or feature requests by creating a new issue.
